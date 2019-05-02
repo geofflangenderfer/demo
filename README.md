@@ -8,12 +8,10 @@
 - Students can save progress
 - No degrading experience as more users work concurrently
 - Free
-- Issue: Grading is an open question
 
-# [Student User Experience](https://youtu.be/R6HpU5Cj1W8)
-- Open: click on a link to assignment in mattermost --> Open with Colab
-- Save: File --> Download .ipynb or Save a copy to Drive
-- Restart: upload file or open from Drive to restart from previous place
-- Grade(?)
+# [Student User Experience](https://youtu.be/1KvKptlgj34)
+- [Open](https://colab.research.google.com/drive/1LRAfmmYqoc5mDHQCCc8Ij32DOnRY-BUv): click on a link to assignment in mattermost, which opens assignment in Google Colab
+- Save: File --> 'Save a copy to Drive' or 'Download .ipynb'
+- Restart: upload file from local computer or open from Drive to restart from saving point
 
 
